@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentin082&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentin082" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyentin082" alt="nguyentin082" /></a> </p>
-
 - 🔭 I’m currently working on **AI-powered applications & intelligent software systems**
 
 - 👯 I’m looking to collaborate on **AI agents, LLM applications, and modern software architectures**
